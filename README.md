@@ -2,7 +2,8 @@ Presentaciones Libres by chepecarlos(chepecarlos@alswblog.org)
 ====================
 
 Presentaciones diversas de Software Libre y Open HardWare.
-Todas las presetaciones estas hechar en inkscape ( http://inkscape.org/ ) usando sozi ( http://sozi.baierouge.fr )
+
+Todas las presetaciones estas hechar en inkscape ( http://inkscape.org/ ) usando un plugin llamado sozi ( http://sozi.baierouge.fr )
 
 Ejecutar la presentacion
 ======================
@@ -22,5 +23,10 @@ flecha izquierda: anterior frame
 Editarlas
 =========
 
-Cual quier edicion pueder solo mente abriendo la imagen .svg en inkscape
+Cual quier edicion pueder solomente abriendo la imagen .svg en inkscape
+
+Recomendado
+===========
+
+Instalar las fuentes que estas en la carpeta Fuentes para que se vea correctamente la presentacion.
 
