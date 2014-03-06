@@ -11,11 +11,11 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
+   width="990"
+   height="765"
    id="svg7166"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="Lenguaje.svg">
   <sodipodi:namedview
      id="base"
@@ -24,19 +24,28 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="1686.5257"
-     inkscape:cy="932.67919"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="830.20827"
+     inkscape:cy="274.86714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
-     inkscape:window-x="-6"
-     inkscape:window-y="-4"
+     inkscape:window-width="1364"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <defs
-     id="defs7168" />
+     id="defs7168">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4170"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3093"
+       effect="spiro" />
+  </defs>
   <metadata
      id="metadata7171">
     <rdf:RDF>
@@ -52,60 +61,62 @@
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-287.36218)">
     <rect
-       style="fill:none;stroke:#00979c;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.98823529;stroke-dasharray:none"
+       style="fill:none;stroke:#00979c;stroke-width:0.70134395;stroke-miterlimit:4;stroke-opacity:0.98823529;stroke-dasharray:none"
        id="rect4649"
-       width="1391.5093"
-       height="860"
-       x="-355.75464"
-       y="-3.3520966" />
+       width="975.92664"
+       height="603.15582"
+       x="5.691628"
+       y="365.07001" />
     <text
        xml:space="preserve"
-       style="font-size:272.41656494000000066px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00979c;fill-opacity:0.98823529;stroke:none;font-family:Sans"
-       x="300.05341"
-       y="217.89622"
+       style="font-size:191.05770874px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00979c;fill-opacity:0.98823529;stroke:none;font-family:Sans"
+       x="465.63864"
+       y="520.24115"
        id="text7702"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7704"
-         x="300.05341"
-         y="217.89622"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Clicker Script;-inkscape-font-specification:Clicker Script Bold;fill:#00979c;fill-opacity:0.98823528999999999">Lenguaje</tspan></text>
+         x="465.63864"
+         y="520.24115"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#00979c;fill-opacity:0.98823528999999999;font-family:Clicker Script;-inkscape-font-specification:Clicker Script">Lenguaje</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:64.67225647px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-271.10635"
-       y="355.94534"
+       style="font-size:45.35749435px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="84.800186"
+       y="590.67975"
        id="text2985"
        sodipodi:linespacing="125%"
-       transform="scale(0.92819865,1.0773556)"><tspan
+       transform="scale(0.92819864,1.0773556)"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="-271.10635"
-         y="355.94534">Basado en Wiring (http://wiring.org.co/)</tspan><tspan
+         x="84.800186"
+         y="590.67975">Basado en Wiring (http://wiring.org.co/)</tspan><tspan
          sodipodi:role="line"
-         x="-271.10635"
-         y="436.78568"
+         x="84.800186"
+         y="647.37659"
          id="tspan2989">Especialización de C/C++ para hardware.</tspan><tspan
          sodipodi:role="line"
-         x="-271.10635"
-         y="517.62598"
+         x="84.800186"
+         y="704.07349"
          id="tspan2991">Abstracción del hardware.</tspan><tspan
          sodipodi:role="line"
-         x="-271.10635"
-         y="598.46631"
+         x="84.800186"
+         y="760.77032"
          id="tspan2993">Toolchain: gcc-avr, libc-avr...</tspan></text>
     <a
        id="a2999"
        xlink:href="/usr/share/arduino/reference/index.html"
-       style="fill:#000080">
+       style="fill:#000080"
+       transform="matrix(0.70134395,0,0,0.70134395,255.198,367.42098)">
       <text
          sodipodi:linespacing="125%"
          id="text2995"
          y="790.07526"
          x="321.13165"
-         style="font-size:55.79277419999999665px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:55.7927742px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="790.07526"
            x="321.13168"
@@ -113,14 +124,15 @@
            sodipodi:role="line">http://arduino.cc/en/Reference/HomePage</tspan></text>
     </a>
     <rect
-       y="-29.066381"
-       x="1092.8168"
-       height="860"
-       width="1391.5093"
+       y="369.53482"
+       x="1028.0176"
+       height="602.9696"
+       width="975.62531"
        id="rect3003"
-       style="fill:none;stroke:#00979c;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.98823529;stroke-dasharray:none" />
+       style="fill:none;stroke:#00979c;stroke-width:0.70112741;stroke-miterlimit:4;stroke-opacity:0.98823529;stroke-dasharray:none" />
     <a
        xlink:href="PlataformaArduino.svg#20"
+       transform="matrix(0.70112741,0,0,0.70112741,261.81377,389.91407)"
        id="a3185">
       <text
          xml:space="preserve"
@@ -133,74 +145,142 @@
            id="tspan3011"
            x="1797.1962"
            y="177.89622"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#00979c;fill-opacity:0.98823528999999999;font-family:Clicker Script;-inkscape-font-specification:Clicker Script Bold">Libreria</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#00979c;fill-opacity:0.98823528999999999;font-family:Clicker Script;-inkscape-font-specification:Clicker Script">Libreria</tspan></text>
     </a>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1182.2977"
-       y="246.64792"
+       style="font-size:28.04509735px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1090.7551"
+       y="562.8457"
        id="text3013"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3015"
-         x="1182.2977"
-         y="246.64792"> EEPROM</tspan><tspan
+         x="1090.7551"
+         y="562.8457"> EEPROM</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="296.64792"
+         x="1090.7551"
+         y="597.90204"
          id="tspan3017"> Ethernet</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="346.64792"
+         x="1090.7551"
+         y="632.95844"
          id="tspan3019"> Firmata</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="396.64792"
+         x="1090.7551"
+         y="668.01477"
          id="tspan3021"> LiquidCristal (LCDs)</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="446.64792"
+         x="1090.7551"
+         y="703.07117"
          id="tspan3023"> SD (Tarjetas Secure Digital)</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="496.64792"
+         x="1090.7551"
+         y="738.12756"
          id="tspan3025"> Servo</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="546.64789"
+         x="1090.7551"
+         y="773.1839"
          id="tspan3027"> SPI (Simple Peripheral Interface)</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="596.64789"
+         x="1090.7551"
+         y="808.2403"
          id="tspan3029"> (Software Serial)</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="646.64789"
+         x="1090.7551"
+         y="843.29663"
          id="tspan3031"> Stepper (motores paso a paso)</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="696.64789"
+         x="1090.7551"
+         y="878.35303"
          id="tspan3033"> Matrix (matriz de LEDs)</tspan><tspan
          sodipodi:role="line"
-         x="1182.2977"
-         y="746.64789"
+         x="1090.7551"
+         y="913.40942"
          id="tspan3035"> Wire</tspan></text>
     <a
        id="a3041"
-       xlink:href="/usr/share/arduino/reference/Libraries.html">
+       xlink:href="/usr/share/arduino/reference/Libraries.html"
+       transform="matrix(0.70112741,0,0,0.70112741,261.81377,389.91407)">
       <text
          transform="scale(0.99295947,1.0070905)"
          sodipodi:linespacing="125%"
          id="text3037"
          y="802.37427"
          x="1773.5039"
-         style="font-size:60.23887252999999475px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:60.23887253px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="802.37427"
            x="1773.5039"
            id="tspan3039"
            sodipodi:role="line">http://arduino.cc/en/Reference/Libraries</tspan></text>
+    </a>
+    <a
+       xlink:href="PlataformaArduino.svg#Lenguaje"
+       style="display:inline"
+       xlink:title="Placas"
+       transform="matrix(0.05491447,0,0,0.05491447,-529.65286,680.57636)"
+       id="a3430">
+      <g
+         transform="matrix(9.1653988,0,0,9.1653988,27487.265,4629.8359)"
+         id="g6958">
+        <g
+           id="g6852"
+           transform="matrix(2.2571335,0,0,1,-25.784033,-510.6512)">
+          <rect
+             ry="112.85713"
+             y="732.36218"
+             x="12.857143"
+             height="288.57144"
+             width="708.57147"
+             id="rect6856"
+             style="fill:#0a9ba0;fill-opacity:1" />
+        </g>
+        <g
+           transform="matrix(0.49480408,0,0,0.49480408,2453.9937,457.08624)"
+           id="g6858"
+           style="fill:#ffffff">
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/chepecarlos/Documentos/Uno.png"
+             sodipodi:nodetypes="czczczzzcszzszczczccsczczzc"
+             inkscape:connector-curvature="0"
+             inkscape:original-d="m -2028.2944,-453.12639 c -34.8786,19.11127 -67.1062,33.47807 -76.9099,39.65215 -9.8037,6.17408 -29.3022,16.38551 -39.6938,26.09792 -11.8347,11.83467 -42.397,33.06464 -56.5291,57.87483 -14.1321,24.81019 -32.8741,68.41218 -28.952,112.91267 2.3186,20.86697 2.3768,39.66442 15.9236,62.24671 13.5468,22.58229 57.8527,65.830127 84.3612,84.785927 26.5085,18.95581 46.782,55.77907 45.9227,79.0821899 -0.8593,23.3031201 -4.0706,24.6661001 -7.8171,40.2432301 33.2618,-5.40321 82.8609,-38.28529 91.7124,-45.5814801 23.7384,-19.5673099 51.2645,-60.5639799 59.7063,-73.7006099 8.4419,-13.13663 10.174,-24.19347 18.8188,-43.427937 8.6449,-19.23447 16.4668,-55.48926 13.3179,-82.80262 -2.846,-24.68608 -5.3835,-46.54215 -19.6873,-76.14367 -14.3037,-29.60152 -42.8971,-58.11718 -42.8971,-58.11718 0,0 15.2196,-16.82897 47.5383,-21.53334 32.3187,-4.70437 46.2866,8.70961 54.2441,7.54808 -1.7929,-5.37887 -19.5285,-17.06287 -40.9351,-24.3076 -21.4066,-7.24473 -49.4048,-3.59653 -71.7658,4.33927 -24.0642,9.48764 -34.1366,9.44712 -57.1732,24.54848 0,0 39.9658,-34.31089 53.695,-43.45912 7.9923,-5.32548 30.4249,-13.31862 53.3459,-21.80876 -27.7567,-6.99468 -64.0799,-4.95639 -96.7167,6.35841 -32.6368,11.3148 -49.916,22.23167 -67.5959,35.67161 7.7738,-20.67456 8.2837,-19.99556 10.7619,-24.95188 2.4782,-4.95632 25.086,-30.84298 31.2681,-37.44386 6.1821,-6.60088 19.5177,-17.18503 26.0568,-28.08342 z"
+             inkscape:path-effect="#path-effect4170"
+             id="path6860"
+             d="m -2028.2944,-453.12639 c -26.4035,11.65339 -52.1025,24.90291 -76.9099,39.65215 -13.617,8.09596 -26.9767,16.65113 -39.6938,26.09792 -21.7636,16.16691 -41.7692,35.13355 -56.5291,57.87483 -21.5052,33.13407 -31.0109,73.4652 -28.952,112.91267 1.1254,21.56335 5.7005,43.22745 15.9236,62.24671 9.4963,17.66704 23.5301,32.49036 38.5138,45.82436 14.9836,13.333999 31.0694,25.400014 45.8474,38.961567 11.5067,10.559543 22.2621,22.091933 30.5915,35.302819 8.3295,13.210886 14.1791,28.2043767 15.3312,43.7793709 1.02,13.7895771 -1.7089,27.8382881 -7.8171,40.2432301 33.513,-7.929613 65.1554,-23.656063 91.7124,-45.5814801 24.5347,-20.2558379 44.652,-45.6717079 59.7063,-73.7006099 7.4735,-13.91448 13.7236,-28.47788 18.8188,-43.427937 9.0702,-26.61341 14.4907,-54.7105 13.3179,-82.80262 -1.1014,-26.38178 -8.0485,-52.4424 -19.6873,-76.14367 -10.6703,-21.72911 -25.2768,-41.51796 -42.8971,-58.11718 13.4726,-11.35085 30.1206,-18.89185 47.5383,-21.53334 18.3025,-2.77568 37.3947,-0.11899 54.2441,7.54808 -11.078,-11.64173 -25.4112,-20.15289 -40.9351,-24.3076 -23.4508,-6.27622 -48.4966,-2.58 -71.7658,4.33927 -19.925,5.92484 -39.1554,14.18182 -57.1732,24.54848 15.4362,-17.21763 33.6385,-31.95002 53.695,-43.45912 16.7113,-9.58949 34.7028,-16.94474 53.3459,-21.80876 -32.1409,-5.50079 -65.5726,-3.3029 -96.7167,6.35841 -24.472,7.59155 -47.518,19.75335 -67.5959,35.67161 2.4484,-8.74909 6.0789,-17.16656 10.7619,-24.95188 8.4004,-13.96544 20.0035,-25.66641 31.2681,-37.44386 8.8269,-9.22873 17.5138,-18.5913 26.0568,-28.08342"
+             style="fill:#ffffff;fill-opacity:1;stroke:#0a9ba0;stroke-width:3.43974519;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+        <g
+           id="g6862"
+           transform="matrix(0.49480408,0,0,0.49480408,1195.1366,457.08624)"
+           style="fill:#ffffff">
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#0a9ba0;stroke-width:3.43974519;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m -2028.2944,-453.12639 c -26.4035,11.65339 -52.1025,24.90291 -76.9099,39.65215 -13.617,8.09596 -26.9767,16.65113 -39.6938,26.09792 -21.7636,16.16691 -41.7692,35.13355 -56.5291,57.87483 -21.5052,33.13407 -31.0109,73.4652 -28.952,112.91267 1.1254,21.56335 5.7005,43.22745 15.9236,62.24671 9.4963,17.66704 23.5301,32.49036 38.5138,45.82436 14.9836,13.333999 31.0694,25.400014 45.8474,38.961567 11.5067,10.559543 22.2621,22.091933 30.5915,35.302819 8.3295,13.210886 14.1791,28.2043767 15.3312,43.7793709 1.02,13.7895771 -1.7089,27.8382881 -7.8171,40.2432301 33.513,-7.929613 65.1554,-23.656063 91.7124,-45.5814801 24.5347,-20.2558379 44.652,-45.6717079 59.7063,-73.7006099 7.4735,-13.91448 13.7236,-28.47788 18.8188,-43.427937 9.0702,-26.61341 14.4907,-54.7105 13.3179,-82.80262 -1.1014,-26.38178 -8.0485,-52.4424 -19.6873,-76.14367 -10.6703,-21.72911 -25.2768,-41.51796 -42.8971,-58.11718 13.4726,-11.35085 30.1206,-18.89185 47.5383,-21.53334 18.3025,-2.77568 37.3947,-0.11899 54.2441,7.54808 -11.078,-11.64173 -25.4112,-20.15289 -40.9351,-24.3076 -23.4508,-6.27622 -48.4966,-2.58 -71.7658,4.33927 -19.925,5.92484 -39.1554,14.18182 -57.1732,24.54848 15.4362,-17.21763 33.6385,-31.95002 53.695,-43.45912 16.7113,-9.58949 34.7028,-16.94474 53.3459,-21.80876 -32.1409,-5.50079 -65.5726,-3.3029 -96.7167,6.35841 -24.472,7.59155 -47.518,19.75335 -67.5959,35.67161 2.4484,-8.74909 6.0789,-17.16656 10.7619,-24.95188 8.4004,-13.96544 20.0035,-25.66641 31.2681,-37.44386 8.8269,-9.22873 17.5138,-18.5913 26.0568,-28.08342"
+             id="path6864"
+             inkscape:path-effect="#path-effect4170"
+             inkscape:original-d="m -2028.2944,-453.12639 c -34.8786,19.11127 -67.1062,33.47807 -76.9099,39.65215 -9.8037,6.17408 -29.3022,16.38551 -39.6938,26.09792 -11.8347,11.83467 -42.397,33.06464 -56.5291,57.87483 -14.1321,24.81019 -32.8741,68.41218 -28.952,112.91267 2.3186,20.86697 2.3768,39.66442 15.9236,62.24671 13.5468,22.58229 57.8527,65.830127 84.3612,84.785927 26.5085,18.95581 46.782,55.77907 45.9227,79.0821899 -0.8593,23.3031201 -4.0706,24.6661001 -7.8171,40.2432301 33.2618,-5.40321 82.8609,-38.28529 91.7124,-45.5814801 23.7384,-19.5673099 51.2645,-60.5639799 59.7063,-73.7006099 8.4419,-13.13663 10.174,-24.19347 18.8188,-43.427937 8.6449,-19.23447 16.4668,-55.48926 13.3179,-82.80262 -2.846,-24.68608 -5.3835,-46.54215 -19.6873,-76.14367 -14.3037,-29.60152 -42.8971,-58.11718 -42.8971,-58.11718 0,0 15.2196,-16.82897 47.5383,-21.53334 32.3187,-4.70437 46.2866,8.70961 54.2441,7.54808 -1.7929,-5.37887 -19.5285,-17.06287 -40.9351,-24.3076 -21.4066,-7.24473 -49.4048,-3.59653 -71.7658,4.33927 -24.0642,9.48764 -34.1366,9.44712 -57.1732,24.54848 0,0 39.9658,-34.31089 53.695,-43.45912 7.9923,-5.32548 30.4249,-13.31862 53.3459,-21.80876 -27.7567,-6.99468 -64.0799,-4.95639 -96.7167,6.35841 -32.6368,11.3148 -49.916,22.23167 -67.5959,35.67161 7.7738,-20.67456 8.2837,-19.99556 10.7619,-24.95188 2.4782,-4.95632 25.086,-30.84298 31.2681,-37.44386 6.1821,-6.60088 19.5177,-17.18503 26.0568,-28.08342 z"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="czczczzzcszzszczczccsczczzc"
+             inkscape:export-filename="/home/chepecarlos/Documentos/Uno.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:261.55725098px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:3px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Chintzy CPU BRK;-inkscape-font-specification:Chintzy CPU BRK"
+           x="323.32355"
+           y="408.01987"
+           id="text6866"
+           sodipodi:linespacing="125%"
+           transform="scale(0.89197505,1.1211076)"><tspan
+             sodipodi:role="line"
+             id="tspan6868"
+             x="323.32355"
+             y="408.01987">Regresar</tspan></text>
+      </g>
     </a>
   </g>
   <script
@@ -219,10 +299,8 @@
      ns1:timeout-ms="5000.0"
      ns1:transition-duration-ms="1000.0"
      ns1:transition-zoom-percent="0.0"
-     ns1:transition-profile="linear"
-     id="frame1" />
+     ns1:transition-profile="linear" />
   <ns1:frame
-     id="frame2"
      ns1:transition-profile="linear"
      ns1:transition-zoom-percent="0"
      ns1:transition-duration-ms="1000"
