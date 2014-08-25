@@ -58,6 +58,6 @@ void ActualizarRGB()
 
   analogWrite(PinRojo, Rojo);
   analogWrite(PinVerde, Verde);
-  analogWrite(PinAzul, Azul;
+  analogWrite(PinAzul, Azul);
 
 }
