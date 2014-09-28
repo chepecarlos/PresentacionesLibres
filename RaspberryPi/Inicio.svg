@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35000001"
-     inkscape:cx="13264.446"
-     inkscape:cy="-1543.5692"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="10119.793"
+     inkscape:cy="-1489.8414"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3113,7 +3113,7 @@
      ns1:timeout-enable="false"
      ns1:clip="false"
      ns1:hide="true"
-     ns1:sequence="7"
+     ns1:sequence="6"
      ns1:title="NoPi"
      ns1:refid="rect6118">
     <ns1:layer
@@ -3235,7 +3235,7 @@
      ns1:timeout-enable="false"
      ns1:clip="false"
      ns1:hide="true"
-     ns1:sequence="6"
+     ns1:sequence="7"
      ns1:title="Tacaño"
      ns1:refid="rect15265" />
   <ns1:frame
@@ -3281,13 +3281,26 @@
      id="C4"
      ns1:transition-path-hide="true"
      ns1:transition-profile="linear"
-     ns1:transition-zoom-percent="0"
-     ns1:transition-duration-ms="1000"
-     ns1:timeout-ms="5000"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
      ns1:timeout-enable="false"
      ns1:clip="false"
      ns1:hide="true"
      ns1:sequence="16"
      ns1:title="C4"
      ns1:refid="rect20850" />
+  <ns1:frame
+     id="Preguntas"
+     ns1:transition-path-hide="true"
+     ns1:transition-profile="linear"
+     ns1:transition-zoom-percent="0"
+     ns1:transition-duration-ms="1000"
+     ns1:timeout-ms="5000"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="true"
+     ns1:sequence="17"
+     ns1:title="Preguntas"
+     ns1:refid="rect22154" />
 </svg>

@@ -11,7 +11,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="GitParaGato.svg"
+   sodipodi:docname="Inicio.svg"
    inkscape:version="0.48.4 r9939"
    version="1.1"
    id="svg3106"
@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.01"
-     inkscape:cx="26005.706"
-     inkscape:cy="12252.014"
+     inkscape:zoom="0.04"
+     inkscape:cx="10999.648"
+     inkscape:cy="6532.0494"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g72966"
      showgrid="false"
      inkscape:window-width="1364"
      inkscape:window-height="703"
@@ -37,16 +37,7 @@
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       id="guide19427"
-       position="-14290.186,-2731.2"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide19429"
-       position="-6291.4284,-3077.1428"
-       orientation="0,1" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <defs
      id="defs3108">
     <linearGradient
@@ -3074,9 +3065,9 @@
        id="text4264"
        sodipodi:linespacing="83.999997%"><tspan
          sodipodi:role="line"
-         x="1066.5922"
+         x="1066.5923"
          y="-82.172012"
-         id="tspan4448">Compilacion </tspan><tspan
+         id="tspan4448">Compilación </tspan><tspan
          id="tspan65892"
          sodipodi:role="line"
          x="1027.5497"
@@ -4314,7 +4305,7 @@
          y="451.09933"
          x="11163.844"
          id="tspan29884"
-         sodipodi:role="line">Biembenido a Tu Casa</tspan></text>
+         sodipodi:role="line">Bienvenido a Tu Casa</tspan></text>
     <rect
        style="fill:none;stroke:#ffdf57;stroke-width:9.83303261;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect29886"
@@ -5134,21 +5125,21 @@
       <text
          transform="matrix(0.97439362,-0.22484898,0.22484898,0.97439362,0,0)"
          xml:space="preserve"
-         style="font-size:599.85211182px;font-style:normal;font-weight:normal;text-align:center;line-height:93.00000072%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="22040.576"
-         y="6691.9731"
+         style="font-size:599.85211182px;font-style:normal;font-weight:normal;text-align:center;line-height:102.99999714%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="22040.893"
+         y="6647.8301"
          id="text66851"
-         sodipodi:linespacing="93.000001%"><tspan
+         sodipodi:linespacing="103%"><tspan
            sodipodi:role="line"
            id="tspan66853"
-           x="22106.771"
-           y="6691.9731"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:93.00000072%;text-anchor:middle;font-family:Clicker Script;-inkscape-font-specification:Clicker Script">Gracias Por </tspan><tspan
+           x="22107.088"
+           y="6647.8301"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:102.99999714%;text-anchor:middle;font-family:Clicker Script;-inkscape-font-specification:Clicker Script">Gracias Por </tspan><tspan
            id="tspan72964"
            sodipodi:role="line"
-           x="22040.576"
-           y="7249.8354"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:93.00000072%;text-anchor:middle;font-family:Clicker Script;-inkscape-font-specification:Clicker Script">La Atencion</tspan></text>
+           x="22040.893"
+           y="7265.6777"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:102.99999714%;text-anchor:middle;font-family:Clicker Script;-inkscape-font-specification:Clicker Script">La Atención</tspan></text>
       <text
          transform="matrix(0.64184824,-0.16292283,0.37153475,1.4636926,0,0)"
          sodipodi:linespacing="125%"
